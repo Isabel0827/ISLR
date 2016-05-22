@@ -1,2 +1,0 @@
-library(ISLR)
-names(Smarket)
